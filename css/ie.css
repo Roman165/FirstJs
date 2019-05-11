@@ -1,0 +1,21 @@
+.ba-pricing {
+  font-size: 0;
+  padding: 50px 0; }
+  .ba-pricing__col {
+    display: inline-block;
+    font-size: 16px; }
+    .ba-pricing__col--center {
+      margin: 0 35px; }
+
+.ba-price__rate {
+  font-size: 60px; }
+  .ba-price__rate:before {
+    font-size: 24px; }
+  .ba-price__rate:after {
+    font-size: 16px; }
+
+.ba-price__position {
+  font-size: 24px; }
+
+[class^="ti-"] {
+  font-size: 30px; }
